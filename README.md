@@ -18,3 +18,6 @@ drwxr-xr-x   4 kota.oue  staff      128  6 26 17:21 packages
 -rwxr-xr-x   1 kota.oue  staff  2174008  6 26 17:10 smallimport
 -rwxr-xr-x   1 kota.oue  staff  1200912  6 26 17:11 smallimport_only
 ```
+
+## Conclusion
+There was no big difference in file size.
